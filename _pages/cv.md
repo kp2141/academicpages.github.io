@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS, Computer Science, Lakehead University, ON, Expected May 2021
-* BE, Computer Engineering, ujarat Technological University, Gujarat, India, June 2018
+* BE, Computer Engineering, Gujarat Technological University, Gujarat, India, June 2018
 
 Course Work
 ======
@@ -37,7 +37,7 @@ Work experience
   * Used JavaScript(Framework-React) for frontend, Python(Framework-Flask) for backend development, MySql for database design. I created authentication and registration feature     on top of Jitsi-Meet
   * Developed scripts for creating, scheduling and deleting meetings. Worked on both end(Frontend and Backend) of the project.
 
-* Jan 2018 – Jun 2018 :Intern, Mindquad Solutions Private Limited, Ahmedabad, India
+* Jan 2018 – Jun 2018: Intern, Mindquad Solutions Private Limited, Ahmedabad, India
   * Developed document search engine using Elastic Search, Flask, Apache Tika-a content analysis toolkit. Created website where one can pass the phrase of sentences and             algorithm will show the all documents which has that particular phrase in it. 
   * Used JavaScript and Bootstrap to create the simple website to show the results
   
