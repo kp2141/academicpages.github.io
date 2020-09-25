@@ -3,9 +3,9 @@ title: "AWS Fundamentals: Going Cloud-Native"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/AWS Fundamentals: Going Cloud-Native
-venue: 
-date: 
-location:
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
