@@ -71,6 +71,6 @@ Certificate and Other Course Work
 * [Problem Solving](https://www.hackerrank.com/certificates/00baf54edd76), Hackerrank
 * [Python](https://www.hackerrank.com/certificates/9c743634d63e), Hackerrank
 * [Responsive Web Design](https://www.freecodecamp.org/certification/fcc2c64017b-704a-4e9a-a3bf-e5daa36176d4/responsive-web-design), freeCodeCamp
-* 
+
 
 
