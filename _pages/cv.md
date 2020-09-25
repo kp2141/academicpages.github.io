@@ -65,6 +65,12 @@ Skills
 Certificate and Other Course Work
 ======
 * [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/account/accomplishments/certificate/L9LKP522HQ32), Coursera, Issued May 2020
-
+* [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/92fce81af54ff39f90d5e0fb23f9d689049bd31d), Data Camp, Issued May 2020
+* [Data analysis with Python](https://www.coursera.org/account/accomplishments/certificate/6GR7MVRXQS65), Coursera
+* [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/KWE4AZ3ZSFUX), Coursera
+* [Problem Solving](https://www.hackerrank.com/certificates/00baf54edd76), Hackerrank
+* [Python](https://www.hackerrank.com/certificates/9c743634d63e), Hackerrank
+* [Responsive Web Design](https://www.freecodecamp.org/certification/fcc2c64017b-704a-4e9a-a3bf-e5daa36176d4/responsive-web-design), freeCodeCamp
+* 
 
 
