@@ -62,5 +62,9 @@ Skills
   * Oracle DB
   * Mongo DB
 
+Certificate and Other Course Work
+======
+* AWS Fundamentals: Going Cloud-Native, Coursera, Issued May 2020
+
 
 
