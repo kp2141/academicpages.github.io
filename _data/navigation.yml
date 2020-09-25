@@ -11,8 +11,8 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "extracurricular activities"
-    url: /teaching/    
+#   - title: "extracurricular activities"
+#     url: /teaching/    
     
   - title: "Resume"
     url: /resume/    
