@@ -64,7 +64,7 @@ Skills
 
 Certificate and Other Course Work
 ======
-* AWS Fundamentals: Going Cloud-Native, Coursera, Issued May 2020
+* [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/account/accomplishments/certificate/L9LKP522HQ32), Coursera, Issued May 2020
 
 
 
