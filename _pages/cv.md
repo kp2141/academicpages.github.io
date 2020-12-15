@@ -72,9 +72,9 @@ Certificate and Other Course Work
 * [Python](https://www.hackerrank.com/certificates/9c743634d63e), Hackerrank
 * [Responsive Web Design](https://www.freecodecamp.org/certification/fcc2c64017b-704a-4e9a-a3bf-e5daa36176d4/responsive-web-design), freeCodeCamp
 
-Problem Solving and My Competitive Programming Journey (Extra Curricular Activities)
+Problem Solving and Competitive Programming(Extra Curricular Activities)
 ======
-* Achieved 1240 global rank outof 19150 participant in december 2020 long challenge of codechef. 
+* Achieved 1240 global rank outof 19150 participant in December 2020 long challenge of codechef. 
 Below are Couple of websites where I do participate for Programming challenges and hone my problem solving skills.
 
 * [Codechef](https://www.codechef.com/users/kp_2141)
