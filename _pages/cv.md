@@ -74,13 +74,13 @@ Certificate and Other Course Work
 
 Problem Solving and Competitive Programming(Extra Curricular Activities)
 ======
-* Achieved 1240 global rank outof 19150 participant in December 2020 long challenge of codechef. 
 Below are Couple of websites where I do participate for Programming challenges and hone my problem solving skills.
 
 * [Codechef](https://www.codechef.com/users/kp_2141)
 * [Hackerrank](https://www.hackerrank.com/kp2141krp)
 * [Hackerearth](https://www.hackerearth.com/@kp2141krp)
 * [Codeforces](https://codeforces.com/profile/kp_2141)
+* Achieved 1240 global rank outof 19150 participant in December 2020 long challenge of codechef. 
 
 
 
