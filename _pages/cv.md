@@ -44,6 +44,7 @@ Work experience
   * Optimized an Algorithm that helped to save manpower and boosted productivity
     by 25%. Created ETL pipeline between Web sources and Elastic Search Engine.
   * Followed scrum agile methodology where I was involved in optimizing an algorithm that simplified users’ search.
+  
 Skills
 ======
 * Programming Languages
