@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MS, Computer Science, Lakehead University, ON, Expected May 2021
+* MS, Computer Science, Lakehead University, ON, May 2021
 * BE, Computer Engineering, Gujarat Technological University, Gujarat, India, June 2018
 
 Course Work
